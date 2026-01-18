@@ -1,0 +1,81 @@
+{
+  "id": 1058158548,
+  "custom_id": null,
+  "meta_data": {
+    "latitude": null,
+    "longitude": null,
+    "date": "2026-01-18",
+    "datetime": "2026-01-18"
+  },
+  "uploaded_datetime": 1768728538.780429,
+  "finished_datetime": 1768728539.068809,
+  "images": [
+    {
+      "file_name": "5508c1ae9f6a4b848b2d12b863bccc71.jpg",
+      "url": "https://plant.id/media/imgs/5508c1ae9f6a4b848b2d12b863bccc71.jpg"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": 105815854800,
+      "plant_name": "Ferocactus pilosus",
+      "probability": 0.99,
+      "confirmed": false,
+      "similar_images": [
+        {
+          "id": "a64fc9c0df4b0eb0ff7f7bdb3cc7f0ee2ab39c9a",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/a64/fc9c0df4b0eb0ff7f7bdb3cc7f0ee2ab39c9a.jpeg",
+          "license_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "citation": "Maria Alicia Sanchez Estevez",
+          "similarity": 0.753,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/a64/fc9c0df4b0eb0ff7f7bdb3cc7f0ee2ab39c9a.small.jpeg"
+        },
+        {
+          "id": "32f0f6a317803d9e5a81269115c7660c6e6d757f",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/32f/0f6a317803d9e5a81269115c7660c6e6d757f.jpeg",
+          "license_name": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "citation": "pkailes",
+          "similarity": 0.71,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/32f/0f6a317803d9e5a81269115c7660c6e6d757f.small.jpeg"
+        }
+      ],
+      "plant_details": {
+        "common_names": [
+          "Ферокактус волосистый"
+        ],
+        "taxonomy": {
+          "class": "Magnoliopsida",
+          "genus": "Ferocactus",
+          "order": "Caryophyllales",
+          "family": "Cactaceae",
+          "phylum": "Tracheophyta",
+          "kingdom": "Plantae"
+        },
+        "url": "https://ru.wikipedia.org/wiki/Ferocactus_pilosus",
+        "wiki_description": {
+          "value": "Ferocactus pilosus (лат.) — суккулент, вид рода ферокактус (Ferocactus) семейства Кактусовые (Cactaceae), эндемик пустыни Чиуауа в Мексике.",
+          "citation": "https://ru.wikipedia.org/wiki/Ferocactus_pilosus",
+          "license_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+        },
+        "language": "ru",
+        "scientific_name": "Ferocactus pilosus",
+        "structured_name": {
+          "genus": "ferocactus",
+          "species": "pilosus"
+        }
+      }
+    }
+  ],
+  "modifiers": [
+    "similar_images"
+  ],
+  "secret": "oVfAHswyrc1STrk",
+  "fail_cause": null,
+  "countable": true,
+  "feedback": null,
+  "is_plant": true,
+  "is_plant_probability": 0.89969057
+}

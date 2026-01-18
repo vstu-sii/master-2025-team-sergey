@@ -1,0 +1,47 @@
+{
+  "timestamp": "20260118_120126",
+  "plant_identification": {
+    "common_name": "Mexican fire barrel cactus",
+    "scientific_name": "Ferocactus pilosus",
+    "confidence": 32.538,
+    "family": "Cactaceae"
+  },
+  "diagnosis": {
+    "plant_type": "general",
+    "plant_name_ru": "Mexican fire barrel cactus",
+    "possible_diseases": [
+      {
+        "symptoms": [
+          "общие проблемы"
+        ],
+        "diagnosis": "Требуется индивидуальная диагностика",
+        "confidence": 0.5,
+        "treatment": [
+          "Проверьте влажность почвы",
+          "Осмотрите на наличие вредителей",
+          "Оцените освещение"
+        ],
+        "products": "Общие препараты"
+      }
+    ],
+    "care_tips": [
+      "Поливайте умеренно",
+      "Обеспечьте хорошее освещение",
+      "Избегайте сквозняков"
+    ]
+  },
+  "image_analysis": {
+    "detected_symptoms": [
+      "possible_overwatering",
+      "potential_fungal"
+    ],
+    "primary_diagnosis": "Возможный перелив или грибковая инфекция",
+    "confidence": 0.65,
+    "based_on": "Анализ размера и метаданных изображения"
+  },
+  "recommendations": [
+    "Поливайте умеренно",
+    "Обеспечьте хорошее освещение",
+    "Избегайте сквозняков"
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "query": {
+    "project": "all",
+    "images": [
+      "1b538bf8c718dfe18830337b90a8cdce"
+    ],
+    "organs": [
+      "auto"
+    ],
+    "includeRelatedImages": false,
+    "noReject": false,
+    "type": null
+  },
+  "predictedOrgans": [
+    {
+      "image": "1b538bf8c718dfe18830337b90a8cdce",
+      "filename": "plant.jpg",
+      "organ": "leaf",
+      "score": 0.64068
+    }
+  ],
+  "language": "en",
+  "preferedReferential": "k-world-flora",
+  "bestMatch": "Spathiphyllum floribundum (Linden & André) N.E.Br.",
+  "results": [
+    {
+      "score": 0.44214,
+      "species": {
+        "scientificNameWithoutAuthor": "Spathiphyllum floribundum",
+        "scientificNameAuthorship": "(Linden & André) N.E.Br.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Spathiphyllum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Spathiphyllum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Araceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Araceae"
+        },
+        "commonNames": [
+          "Peace-lily",
+          "Snowflower",
+          "Spathe flower"
+        ],
+        "scientificName": "Spathiphyllum floribundum (Linden & André) N.E.Br."
+      },
+      "gbif": {
+        "id": "2869650"
+      },
+      "powo": {
+        "id": "88963-1"
+      }
+    },
+    {
+      "score": 0.30519,
+      "species": {
+        "scientificNameWithoutAuthor": "Spathiphyllum wallisii",
+        "scientificNameAuthorship": "Regel",
+        "genus": {
+          "scientificNameWithoutAuthor": "Spathiphyllum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Spathiphyllum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Araceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Araceae"
+        },
+        "commonNames": [
+          "Peace lily",
+          "اسپاتی فیلوم",
+          "Peach lily"
+        ],
+        "scientificName": "Spathiphyllum wallisii Regel"
+      },
+      "gbif": {
+        "id": "2869680"
+      },
+      "powo": {
+        "id": "89011-1"
+      }
+    },
+    {
+      "score": 0.11032,
+      "species": {
+        "scientificNameWithoutAuthor": "Spathiphyllum blandum",
+        "scientificNameAuthorship": "Schott",
+        "genus": {
+          "scientificNameWithoutAuthor": "Spathiphyllum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Spathiphyllum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Araceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Araceae"
+        },
+        "commonNames": [
+          "Peace Lily",
+          "Variegated peacelily",
+          "Entisar"
+        ],
+        "scientificName": "Spathiphyllum blandum Schott"
+      },
+      "gbif": {
+        "id": "2869755"
+      },
+      "powo": {
+        "id": "88949-1"
+      }
+    },
+    {
+      "score": 0.06476,
+      "species": {
+        "scientificNameWithoutAuthor": "Aglaonema modestum",
+        "scientificNameAuthorship": "Schott ex Engl.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Aglaonema",
+          "scientificNameAuthorship": "",
+          "scientificName": "Aglaonema"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Araceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Araceae"
+        },
+        "commonNames": [
+          "Chinese evergreen",
+          "Japanese-leaf"
+        ],
+        "scientificName": "Aglaonema modestum Schott ex Engl."
+      },
+      "gbif": {
+        "id": "2866488"
+      },
+      "powo": {
+        "id": "84081-1"
+      }
+    },
+    {
+      "score": 0.00506,
+      "species": {
+        "scientificNameWithoutAuthor": "Goeppertia bachemiana",
+        "scientificNameAuthorship": "(É.Morren) Borchs. & S.Suárez",
+        "genus": {
+          "scientificNameWithoutAuthor": "Goeppertia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Goeppertia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Marantaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Marantaceae"
+        },
+        "commonNames": [
+          "Calathea leopardina"
+        ],
+        "scientificName": "Goeppertia bachemiana (É.Morren) Borchs. & S.Suárez"
+      },
+      "gbif": {
+        "id": "8104410"
+      },
+      "powo": {
+        "id": "60458927-2"
+      }
+    },
+    {
+      "score": 0.00335,
+      "species": {
+        "scientificNameWithoutAuthor": "Monstera adansonii",
+        "scientificNameAuthorship": "Schott",
+        "genus": {
+          "scientificNameWithoutAuthor": "Monstera",
+          "scientificNameAuthorship": "",
+          "scientificName": "Monstera"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Araceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Araceae"
+        },
+        "commonNames": [
+          "Swiss-cheese-plant",
+          "Monkey mask",
+          "Adanson's monstera"
+        ],
+        "scientificName": "Monstera adansonii Schott"
+      },
+      "gbif": {
+        "id": "2868136"
+      },
+      "powo": {
+        "id": "87464-1"
+      }
+    },
+    {
+      "score": 0.00242,
+      "species": {
+        "scientificNameWithoutAuthor": "Dieffenbachia seguine",
+        "scientificNameAuthorship": "(Jacq.) Schott",
+        "genus": {
+          "scientificNameWithoutAuthor": "Dieffenbachia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Dieffenbachia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Araceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Araceae"
+        },
+        "commonNames": [
+          "Dumb cane",
+          "The Plant-My-Wife-Brought-Home",
+          "دیفن باخیا"
+        ],
+        "scientificName": "Dieffenbachia seguine (Jacq.) Schott"
+      },
+      "gbif": {
+        "id": "2869345"
+      },
+      "powo": {
+        "id": "86911-1"
+      }
+    },
+    {
+      "score": 0.00203,
+      "species": {
+        "scientificNameWithoutAuthor": "Syngonium auritum",
+        "scientificNameAuthorship": "(L.) Schott",
+        "genus": {
+          "scientificNameWithoutAuthor": "Syngonium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Syngonium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Araceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Araceae"
+        },
+        "commonNames": [
+          "Five-fingers",
+          "Arrowhead vine",
+          "پنج انگشتی"
+        ],
+        "scientificName": "Syngonium auritum (L.) Schott"
+      },
+      "gbif": {
+        "id": "2867841"
+      },
+      "powo": {
+        "id": "89130-1"
+      }
+    },
+    {
+      "score": 0.0018,
+      "species": {
+        "scientificNameWithoutAuthor": "Dieffenbachia oerstedii",
+        "scientificNameAuthorship": "Schott",
+        "genus": {
+          "scientificNameWithoutAuthor": "Dieffenbachia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Dieffenbachia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Araceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Araceae"
+        },
+        "commonNames": [
+          "Dieffenbachia Green Magic",
+          "Arrow crane",
+          "دیفن باخیا"
+        ],
+        "scientificName": "Dieffenbachia oerstedii Schott"
+      },
+      "gbif": {
+        "id": "2869429"
+      },
+      "powo": {
+        "id": "86896-1"
+      }
+    },
+    {
+      "score": 0.00163,
+      "species": {
+        "scientificNameWithoutAuthor": "Spathiphyllum cannifolium",
+        "scientificNameAuthorship": "(Dryand. ex Sims) Schott",
+        "genus": {
+          "scientificNameWithoutAuthor": "Spathiphyllum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Spathiphyllum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Araceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Araceae"
+        },
+        "commonNames": [
+          "Spatheflower",
+          "Peace Lily"
+        ],
+        "scientificName": "Spathiphyllum cannifolium (Dryand. ex Sims) Schott"
+      },
+      "gbif": {
+        "id": "2869701"
+      },
+      "powo": {
+        "id": "88955-1"
+      }
+    }
+  ],
+  "version": "2025-10-08 (7.4)",
+  "remainingIdentificationRequests": 498
+}

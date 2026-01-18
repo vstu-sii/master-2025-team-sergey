@@ -1,0 +1,30 @@
+============================================================
+СТРУКТУРА ОТВЕТА PLANT.ID API
+============================================================
+
+id: int: 1058159143
+custom_id: NoneType: None
+meta_data: dict
+  latitude: NoneType: None
+  longitude: NoneType: None
+  date: str: 2026-01-18
+  datetime: str: 2026-01-18
+uploaded_datetime: float: 1768730069.200184
+finished_datetime: float: 1768730069.740952
+images: list
+  [Первый элемент]: dict
+    file_name: str: 83c091bd4ab34dc1bf0aa907db330350.jpg
+    url: str: https://plant.id/media/imgs/83c091bd4ab34dc1bf0aa907db330350.jpg
+modifiers: list
+  [Первый элемент]: str
+secret: str: w5hVzB1WLR1xo7f
+fail_cause: NoneType: None
+countable: bool: True
+feedback: NoneType: None
+is_plant: bool: True
+is_plant_probability: float: 0.9622142
+health_assessment: dict
+  is_healthy: bool: False
+  is_healthy_probability: float: 0.07530000327824382
+  diseases: list
+    [Первый элемент]: dict

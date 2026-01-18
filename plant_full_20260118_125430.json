@@ -1,0 +1,102 @@
+{
+  "id": 1058159143,
+  "custom_id": null,
+  "meta_data": {
+    "latitude": null,
+    "longitude": null,
+    "date": "2026-01-18",
+    "datetime": "2026-01-18"
+  },
+  "uploaded_datetime": 1768730069.200184,
+  "finished_datetime": 1768730069.740952,
+  "images": [
+    {
+      "file_name": "83c091bd4ab34dc1bf0aa907db330350.jpg",
+      "url": "https://plant.id/media/imgs/83c091bd4ab34dc1bf0aa907db330350.jpg"
+    }
+  ],
+  "modifiers": [
+    "health_only"
+  ],
+  "secret": "w5hVzB1WLR1xo7f",
+  "fail_cause": null,
+  "countable": true,
+  "feedback": null,
+  "is_plant": true,
+  "is_plant_probability": 0.9622142,
+  "health_assessment": {
+    "is_healthy": false,
+    "is_healthy_probability": 0.07530000327824382,
+    "diseases": [
+      {
+        "name": "sunburn",
+        "probability": 0.6214,
+        "entity_id": 835,
+        "disease_details": {
+          "local_name": "sunburn",
+          "description": "Sunburn (often called sunscald on trunks and fruit) is heat and light injury from intense, direct sun. It’s common after heatwaves, when plants are moved from shade to full sun too fast, or when leaves touch hot window glass. Look for pale, bleached, or silvery areas that later turn tan or brown; edges may crisp, and fruit can get sunken, corky patches. The damage does not spread like a disease. Young or thin leaves, fruiting vegetables (tomatoes, peppers, cucumbers), houseplants in south- or west-facing windows, succulents, and tree fruit (citrus, apples) are often affected.",
+          "treatment": {
+            "chemical": [
+              "Use kaolin clay particle films labeled for your crop to create a light, reflective coating that reduces heat stress, and use anti-transpirants such as pinolene on ornamentals for short-term protection in extreme heat.",
+              "Expect these treatments to limit new injury rather than repair existing damage."
+            ],
+            "biological": [
+              "Move potted plants to bright, indirect light or provide temporary shade of 30-50 percent during the hottest hours.",
+              "For plants in the ground, set up simple shade on the west side during heat spikes.",
+              "Water deeply in the early morning to maintain even soil moisture, add 5-8 cm (2-3 in) of mulch to cool roots, and avoid heavy pruning that suddenly exposes inner leaves or fruit.",
+              "Keep lightly damaged leaves to maintain shade and remove only tissue that is fully crispy or decaying.",
+              "Whitewash the sunny side of young tree trunks and exposed limbs with a 1:1 mix of interior white latex paint and water to prevent bark sunscald.",
+              "Harden off plants moved from indoors or shade by increasing sun exposure over 7-14 days."
+            ],
+            "prevention": [
+              "Acclimate plants before changing light by adding a little more sun each day.",
+              "Place most houseplants in bright, indirect light and keep foliage a few centimeters from hot window glass.",
+              "Use seasonal shade of 30-50 percent for sun-sensitive crops or during heat above about 32 C (90 F).",
+              "Water consistently in the morning and mulch to stabilize soil temperature and moisture.",
+              "Avoid heavy midsummer pruning that exposes the inner canopy or fruit to sudden full sun.",
+              "Whitewash young tree trunks and southwest-facing limbs in late winter or early spring in sunny climates.",
+              "Choose varieties suited to your site and, in very hot areas, provide morning sun with some afternoon protection to sensitive plants."
+            ]
+          },
+          "common_names": null,
+          "language": "en"
+        }
+      },
+      {
+        "name": "Fungi",
+        "probability": 0.2064,
+        "entity_id": 69976184,
+        "disease_details": {
+          "local_name": "Fungi",
+          "description": "Fungi take energy from the plants on which they live, causing damage to the plant. Fungal infections are responsible for approximately two-thirds of infectious plant diseases and cause wilting, molding, rusts, scabs, rotted tissue, and other problems.",
+          "treatment": {
+            "chemical": [
+              "If necessary, apply a fungicide. If you don' know the fungus species, choose fungicide based on the infected plant (e.g. house plant, garden plant, tree)."
+            ],
+            "biological": [
+              "If possible remove and destroy the infected parts of the plant. Burn it, toss it into the garbage, or bury it deeply. Do not compost.",
+              "Apply ecological products for plant protection (e.g. neem oil, baking soda, soap)."
+            ],
+            "prevention": [
+              "Use resistant species and cultivars as well as healthy, certified seeds and seedlings.",
+              "Ensure having good soil drainage to avoid overwatering.",
+              "Improve the air circulation around the plant (e.g. by pruning excess foliage or increasing the spacing between plants).",
+              "Avoid prolonged wetting of the leaves, which can be caused e.g. by overhead irrigation.",
+              "Rotate crops. Avoid planting sensitive crops in infested soil.",
+              "Disinfect tools, infected flower pots, and hands to avoid disease transmission."
+            ]
+          },
+          "common_names": [
+            "Fungi Including Lichens",
+            "Fungi",
+            "Mould",
+            "Fungus",
+            "Mushrooms",
+            "Funguses"
+          ],
+          "language": "en"
+        }
+      }
+    ]
+  }
+}

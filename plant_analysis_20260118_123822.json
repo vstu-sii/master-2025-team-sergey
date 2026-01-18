@@ -1,0 +1,74 @@
+{
+  "id": 1058158734,
+  "custom_id": null,
+  "meta_data": {
+    "latitude": null,
+    "longitude": null,
+    "date": "2026-01-18",
+    "datetime": "2026-01-18"
+  },
+  "uploaded_datetime": 1768729101.88041,
+  "finished_datetime": 1768729102.104114,
+  "images": [
+    {
+      "file_name": "463be75f5fed4021af51359d5032dd03.jpg",
+      "url": "https://plant.id/media/imgs/463be75f5fed4021af51359d5032dd03.jpg"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": 105815873400,
+      "plant_name": "Philodendron erubescens",
+      "probability": 0.9836,
+      "confirmed": false,
+      "similar_images": [
+        {
+          "id": "bfbefc1951eeee27e9be0a93299353aa2ae2c036",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/bfb/efc1951eeee27e9be0a93299353aa2ae2c036.jpeg",
+          "license_name": "CC BY-NC-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "citation": "FlowerChecker s.r.o.",
+          "similarity": 0.756,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/bfb/efc1951eeee27e9be0a93299353aa2ae2c036.small.jpeg"
+        },
+        {
+          "id": "8f481d191f8cb1c4326cde1983c29f06aeaa3d5b",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/8f4/81d191f8cb1c4326cde1983c29f06aeaa3d5b.jpeg",
+          "license_name": "CC BY-NC-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "citation": "FlowerChecker s.r.o.",
+          "similarity": 0.752,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/8f4/81d191f8cb1c4326cde1983c29f06aeaa3d5b.small.jpeg"
+        }
+      ],
+      "plant_details": {
+        "common_names": [
+          "Blushing Philodendron"
+        ],
+        "taxonomy": {
+          "class": "Liliopsida",
+          "genus": "Philodendron",
+          "order": "Alismatales",
+          "family": "Araceae",
+          "phylum": "Tracheophyta",
+          "kingdom": "Plantae"
+        },
+        "language": "en",
+        "scientific_name": "Philodendron erubescens",
+        "structured_name": {
+          "genus": "philodendron",
+          "species": "erubescens"
+        }
+      }
+    }
+  ],
+  "modifiers": [
+    "similar_images"
+  ],
+  "secret": "eWJ2TUdhlbEaOen",
+  "fail_cause": null,
+  "countable": true,
+  "feedback": null,
+  "is_plant": true,
+  "is_plant_probability": 0.9622142
+}

@@ -1,0 +1,24 @@
+============================================================
+РЕЗУЛЬТАТЫ PLANTNET API
+============================================================
+
+1. Spathiphyllum floribundum
+   Вероятность: 44.2%
+   Названия: Peace-lily, Snowflower, Spathe flower
+
+2. Spathiphyllum wallisii
+   Вероятность: 30.5%
+   Названия: Peace lily, اسپاتی فیلوم, Peach lily
+
+3. Spathiphyllum blandum
+   Вероятность: 11.0%
+   Названия: Peace Lily, Variegated peacelily, Entisar
+
+4. Aglaonema modestum
+   Вероятность: 6.5%
+   Названия: Chinese evergreen, Japanese-leaf
+
+5. Goeppertia bachemiana
+   Вероятность: 0.5%
+   Названия: Calathea leopardina
+

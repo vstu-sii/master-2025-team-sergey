@@ -1,0 +1,24 @@
+============================================================
+РЕЗУЛЬТАТЫ PLANTNET API
+============================================================
+
+1. Ferocactus pilosus
+   Вероятность: 32.5%
+   Названия: Mexican fire barrel cactus, Mexican lime cactus, Mexican Fire Barrel
+
+2. Ferocactus gracilis
+   Вероятность: 5.6%
+   Названия: Fire barrel cactus
+
+3. Sclerocactus johnsonii
+   Вероятность: 2.1%
+   Названия: Eight-spine Fishhook Cactus, Johnson's Barrel Cactus, Johnson's Fishhook Cactus
+
+4. Thelocactus bicolor
+   Вероятность: 1.6%
+   Названия: Glory of Texas, Straw Thelocactus, Glory-of-texas
+
+5. Ferocactus acanthodes
+   Вероятность: 1.3%
+   Названия: Compass cactus, California barrel cactus, Barrrel cactus
+

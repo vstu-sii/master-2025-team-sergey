@@ -1,0 +1,239 @@
+{
+  "id": 1058158568,
+  "custom_id": null,
+  "meta_data": {
+    "latitude": null,
+    "longitude": null,
+    "date": "2026-01-18",
+    "datetime": "2026-01-18"
+  },
+  "uploaded_datetime": 1768728597.715193,
+  "finished_datetime": 1768728598.02422,
+  "images": [
+    {
+      "file_name": "d6ee4567d4c84457aef89c2f13205ba0.jpg",
+      "url": "https://plant.id/media/imgs/d6ee4567d4c84457aef89c2f13205ba0.jpg"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": 105815856800,
+      "plant_name": "Malus domestica",
+      "probability": 0.7255,
+      "confirmed": false,
+      "similar_images": [
+        {
+          "id": "f549bf29ceaabd02488d9857caf802eaa4f07f03",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/f54/9bf29ceaabd02488d9857caf802eaa4f07f03.jpeg",
+          "license_name": "CC BY-NC-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "citation": "FlowerChecker s.r.o.",
+          "similarity": 0.613,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/f54/9bf29ceaabd02488d9857caf802eaa4f07f03.small.jpeg"
+        },
+        {
+          "id": "3721ced8dd62cb27bc720e0b1410f639e19d88e2",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/372/1ced8dd62cb27bc720e0b1410f639e19d88e2.jpeg",
+          "license_name": "CC BY-NC-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "citation": "FlowerChecker s.r.o.",
+          "similarity": 0.609,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/372/1ced8dd62cb27bc720e0b1410f639e19d88e2.small.jpeg"
+        }
+      ],
+      "plant_details": {
+        "common_names": [
+          "Яблоня домашняя",
+          "Яблоня карликовая"
+        ],
+        "taxonomy": {
+          "class": "Magnoliopsida",
+          "genus": "Malus",
+          "order": "Rosales",
+          "family": "Rosaceae",
+          "phylum": "Tracheophyta",
+          "kingdom": "Plantae"
+        },
+        "url": "https://ru.wikipedia.org/wiki/Яблоко",
+        "wiki_description": {
+          "value": "Я́блоко — сочный плод яблони, который употребляется в пищу в свежем и запечённом виде, служит сырьём в кулинарии и для приготовления напитков. Наибольшее распространение получила яблоня домашняя, реже выращивают яблоню сливолистную. Размер красных, зелёных, жёлтых или оранжевых шаровидных плодов 5—13 см в диаметре. Происходит из Центральной Азии, где до сих пор произрастает дикорастущий предок яблони домашней — яблоня Сиверса. На сегодняшний день существует множество сортов этого вида яблони, произрастающих в различных климатических условиях. По времени созревания отличают летние, осенние и зимние сорта, более поздние сорта отличаются хорошей стойкостью.",
+          "citation": "https://ru.wikipedia.org/wiki/Яблоко",
+          "license_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+        },
+        "language": "ru",
+        "scientific_name": "Malus domestica",
+        "structured_name": {
+          "genus": "malus",
+          "species": "domestica"
+        }
+      }
+    },
+    {
+      "id": 105815856801,
+      "plant_name": "Malus sylvestris",
+      "probability": 0.0573,
+      "confirmed": false,
+      "similar_images": [
+        {
+          "id": "10a05065c36cafbace976b37b363ebcf74b68ef6",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/10a/05065c36cafbace976b37b363ebcf74b68ef6.jpeg",
+          "license_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "citation": "F. Manzano",
+          "similarity": 0.619,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/10a/05065c36cafbace976b37b363ebcf74b68ef6.small.jpeg"
+        },
+        {
+          "id": "e5a39ddedee21167c9c3e5109745a72340fe667d",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/e5a/39ddedee21167c9c3e5109745a72340fe667d.jpeg",
+          "license_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "citation": "Chiodaroli Federico",
+          "similarity": 0.601,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/e5a/39ddedee21167c9c3e5109745a72340fe667d.small.jpeg"
+        }
+      ],
+      "plant_details": {
+        "common_names": [
+          "Яблоня лесная"
+        ],
+        "taxonomy": {
+          "class": "Magnoliopsida",
+          "genus": "Malus",
+          "order": "Rosales",
+          "family": "Rosaceae",
+          "phylum": "Tracheophyta",
+          "kingdom": "Plantae"
+        },
+        "url": "https://ru.wikipedia.org/wiki/Яблоня_лесная",
+        "wiki_description": {
+          "value": "Я́блоня лесна́я, или я́блоня ди́кая (лат. Málus sylvéstris) — вид деревьев из рода Яблоня семейства Розовые. \nДолгое время считалось, что именно она была родоначальницей яблони домашней, однако по ДНК-анализу было установлено, что известные 2 500 сортов яблони домашней происходят от яблони Сиверса. Тем не менее другой ДНК-анализ показал, что дикая лесная яблоня также внесла существенный вклад в происхождение яблони домашней.",
+          "citation": "https://ru.wikipedia.org/wiki/Яблоня_лесная",
+          "license_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+        },
+        "language": "ru",
+        "scientific_name": "Malus sylvestris",
+        "structured_name": {
+          "genus": "malus",
+          "species": "sylvestris"
+        }
+      }
+    },
+    {
+      "id": 105815856802,
+      "plant_name": "Prunus domestica",
+      "probability": 0.0245,
+      "confirmed": false,
+      "similar_images": [
+        {
+          "id": "e9e89f64faad2e9e8c1b7fe55bc86cbfa395f3dc",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/e9e/89f64faad2e9e8c1b7fe55bc86cbfa395f3dc.jpeg",
+          "license_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "citation": "julia jujue",
+          "similarity": 0.578,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/e9e/89f64faad2e9e8c1b7fe55bc86cbfa395f3dc.small.jpeg"
+        },
+        {
+          "id": "733eb08c2393e4e3428607699d5297ff698f38b8",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/733/eb08c2393e4e3428607699d5297ff698f38b8.jpeg",
+          "license_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "citation": "Mic",
+          "similarity": 0.56,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/733/eb08c2393e4e3428607699d5297ff698f38b8.small.jpeg"
+        }
+      ],
+      "plant_details": {
+        "common_names": [
+          "Слива домашняя"
+        ],
+        "taxonomy": {
+          "class": "Magnoliopsida",
+          "genus": "Prunus",
+          "order": "Rosales",
+          "family": "Rosaceae",
+          "phylum": "Tracheophyta",
+          "kingdom": "Plantae"
+        },
+        "url": "https://ru.wikipedia.org/wiki/Слива_домашняя",
+        "wiki_description": {
+          "value": "Сли́ва дома́шняя (лат. Prúnus doméstica) — широко распространенное плодовое растение, вид рода Слива семейства Розовые.",
+          "citation": "https://ru.wikipedia.org/wiki/Слива_домашняя",
+          "license_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+        },
+        "language": "ru",
+        "scientific_name": "Prunus domestica",
+        "structured_name": {
+          "genus": "prunus",
+          "species": "domestica"
+        }
+      }
+    },
+    {
+      "id": 105815856803,
+      "plant_name": "Amanita muscaria",
+      "probability": 0.0233,
+      "confirmed": false,
+      "similar_images": [
+        {
+          "id": "181381f0fefd1826090d4c4ba836dd6b8ae7a252",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/181/381f0fefd1826090d4c4ba836dd6b8ae7a252.jpeg",
+          "license_name": "CC BY-NC-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "citation": "FlowerChecker s.r.o.",
+          "similarity": 0.348,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/181/381f0fefd1826090d4c4ba836dd6b8ae7a252.small.jpeg"
+        },
+        {
+          "id": "50529c2767f4c715f32bae71820b0bca70aec96e",
+          "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/505/29c2767f4c715f32bae71820b0bca70aec96e.jpeg",
+          "license_name": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "citation": "P Holroyd",
+          "similarity": 0.342,
+          "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/505/29c2767f4c715f32bae71820b0bca70aec96e.small.jpeg"
+        }
+      ],
+      "plant_details": {
+        "common_names": [
+          "Красный мухомор",
+          "Мухомор красный"
+        ],
+        "taxonomy": {
+          "class": "Agaricomycetes",
+          "genus": "Amanita",
+          "order": "Agaricales",
+          "family": "Amanitaceae",
+          "phylum": "Basidiomycota",
+          "kingdom": "Fungi"
+        },
+        "url": "https://ru.wikipedia.org/wiki/Мухомор_красный",
+        "wiki_description": {
+          "value": "Мухомо́р кра́сный (лат. Amanita muscaria) — гриб рода Мухомор, или Аманита (Amanita) семейства Мухоморовые (Agaricaceae). Широко распространённый космополит. Является известнейшим представителем рода, и наиболее узнаваемым ядовитым грибом.\nЯдовит; обладает слабыми психоактивными свойствами. Используется как опьяняющее вещество и энтеоген. В Сибири имеет религиозное значение в местной культуре.",
+          "citation": "https://ru.wikipedia.org/wiki/Мухомор_красный",
+          "license_name": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+        },
+        "language": "ru",
+        "scientific_name": "Amanita muscaria",
+        "structured_name": {
+          "genus": "amanita",
+          "species": "muscaria"
+        }
+      }
+    }
+  ],
+  "modifiers": [
+    "similar_images"
+  ],
+  "secret": "xcYciHYbGKIsRpC",
+  "fail_cause": null,
+  "countable": true,
+  "feedback": null,
+  "is_plant": true,
+  "is_plant_probability": 0.9985399
+}

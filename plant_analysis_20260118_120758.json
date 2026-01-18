@@ -1,0 +1,379 @@
+{
+  "timestamp": "20260118_120758",
+  "plantnet_results": {
+    "query": {
+      "project": "all",
+      "images": [
+        "c6a9586fa175989e49af7ee71d66da8e"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "c6a9586fa175989e49af7ee71d66da8e",
+        "filename": "plant.jpg",
+        "organ": "flower",
+        "score": 0.32477
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Spathiphyllum floribundum (Linden & André) N.E.Br.",
+    "results": [
+      {
+        "score": 0.32911,
+        "species": {
+          "scientificNameWithoutAuthor": "Spathiphyllum floribundum",
+          "scientificNameAuthorship": "(Linden & André) N.E.Br.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spathiphyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spathiphyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [
+            "Peace-lily",
+            "Snowflower",
+            "Spathe flower"
+          ],
+          "scientificName": "Spathiphyllum floribundum (Linden & André) N.E.Br."
+        },
+        "gbif": {
+          "id": "2869650"
+        },
+        "powo": {
+          "id": "88963-1"
+        }
+      },
+      {
+        "score": 0.09656,
+        "species": {
+          "scientificNameWithoutAuthor": "Spathiphyllum wallisii",
+          "scientificNameAuthorship": "Regel",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spathiphyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spathiphyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [
+            "Peace lily",
+            "اسپاتی فیلوم",
+            "Peach lily"
+          ],
+          "scientificName": "Spathiphyllum wallisii Regel"
+        },
+        "gbif": {
+          "id": "2869680"
+        },
+        "powo": {
+          "id": "89011-1"
+        }
+      },
+      {
+        "score": 0.08234,
+        "species": {
+          "scientificNameWithoutAuthor": "Spathiphyllum blandum",
+          "scientificNameAuthorship": "Schott",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spathiphyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spathiphyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [
+            "Peace Lily",
+            "Variegated peacelily",
+            "Entisar"
+          ],
+          "scientificName": "Spathiphyllum blandum Schott"
+        },
+        "gbif": {
+          "id": "2869755"
+        },
+        "powo": {
+          "id": "88949-1"
+        }
+      },
+      {
+        "score": 0.05912,
+        "species": {
+          "scientificNameWithoutAuthor": "Spathiphyllum cochlearispathum",
+          "scientificNameAuthorship": "(Liebm.) Engl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spathiphyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spathiphyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [
+            "Peace lily",
+            "White flag",
+            "White peace lily"
+          ],
+          "scientificName": "Spathiphyllum cochlearispathum (Liebm.) Engl."
+        },
+        "gbif": {
+          "id": "2869661"
+        },
+        "powo": {
+          "id": "88958-1"
+        }
+      },
+      {
+        "score": 0.04453,
+        "species": {
+          "scientificNameWithoutAuthor": "Spathiphyllum cannifolium",
+          "scientificNameAuthorship": "(Dryand. ex Sims) Schott",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spathiphyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spathiphyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [
+            "Spatheflower",
+            "Peace Lily"
+          ],
+          "scientificName": "Spathiphyllum cannifolium (Dryand. ex Sims) Schott"
+        },
+        "gbif": {
+          "id": "2869701"
+        },
+        "powo": {
+          "id": "88955-1"
+        }
+      },
+      {
+        "score": 0.01303,
+        "species": {
+          "scientificNameWithoutAuthor": "Spathiphyllum patinii",
+          "scientificNameAuthorship": "(R.Hogg) N.E.Br.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spathiphyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spathiphyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [],
+          "scientificName": "Spathiphyllum patinii (R.Hogg) N.E.Br."
+        },
+        "gbif": {
+          "id": "2869723"
+        },
+        "powo": {
+          "id": "88996-1"
+        }
+      },
+      {
+        "score": 0.00603,
+        "species": {
+          "scientificNameWithoutAuthor": "Spathiphyllum silvicola",
+          "scientificNameAuthorship": "R.A.Baker",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spathiphyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spathiphyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [],
+          "scientificName": "Spathiphyllum silvicola R.A.Baker"
+        },
+        "gbif": {
+          "id": "2869677"
+        },
+        "powo": {
+          "id": "241217-2"
+        }
+      },
+      {
+        "score": 0.00503,
+        "species": {
+          "scientificNameWithoutAuthor": "Calla palustris",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Calla",
+            "scientificNameAuthorship": "",
+            "scientificName": "Calla"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [
+            "Peace lilly",
+            "Wild calla",
+            "Wild calla-lily"
+          ],
+          "scientificName": "Calla palustris L."
+        },
+        "gbif": {
+          "id": "2869101"
+        },
+        "powo": {
+          "id": "86508-1"
+        },
+        "iucn": {
+          "id": "167822",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00399,
+        "species": {
+          "scientificNameWithoutAuthor": "Spathiphyllum montanum",
+          "scientificNameAuthorship": "(R.A.Baker) Grayum",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spathiphyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spathiphyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [],
+          "scientificName": "Spathiphyllum montanum (R.A.Baker) Grayum"
+        },
+        "gbif": {
+          "id": "2869685"
+        },
+        "powo": {
+          "id": "1001011-1"
+        }
+      },
+      {
+        "score": 0.00227,
+        "species": {
+          "scientificNameWithoutAuthor": "Spathiphyllum friedrichsthalii",
+          "scientificNameAuthorship": "Schott",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spathiphyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spathiphyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [
+            "Peace Lily"
+          ],
+          "scientificName": "Spathiphyllum friedrichsthalii Schott"
+        },
+        "gbif": {
+          "id": "2869742"
+        },
+        "powo": {
+          "id": "88964-1"
+        }
+      }
+    ],
+    "version": "2025-10-08 (7.4)",
+    "remainingIdentificationRequests": 491
+  },
+  "identification": {
+    "common_name": "Peace-lily",
+    "scientific_name": "Spathiphyllum floribundum",
+    "genus": "Spathiphyllum",
+    "family": "Araceae",
+    "confidence": 32.911
+  },
+  "diagnosis": {
+    "plant_found": true,
+    "plant_name_ru": "Спатифиллум (Женское счастье)",
+    "diagnoses": [
+      {
+        "symptoms": [
+          "yellow leaves",
+          "yellowing",
+          "yellow"
+        ],
+        "diagnosis_ru": "Избыточный полив или хлороз",
+        "confidence": 0.85,
+        "treatment_ru": [
+          "Прекратите полив на 7-10 дней",
+          "Проверьте дренажные отверстия",
+          "Подкормите хелатом железа",
+          "Уберите от прямых солнечных лучей"
+        ],
+        "products_ru": "Феровит, хелат железа"
+      },
+      {
+        "symptoms": [
+          "brown tips",
+          "dry tips",
+          "brown edges"
+        ],
+        "diagnosis_ru": "Низкая влажность воздуха",
+        "confidence": 0.9,
+        "treatment_ru": [
+          "Увеличьте влажность воздуха (опрыскивание 2-3 раза в день)",
+          "Поставьте на поддон с влажной галькой",
+          "Используйте увлажнитель воздуха"
+        ],
+        "products_ru": "Увлажнитель воздуха"
+      },
+      {
+        "symptoms": [
+          "drooping",
+          "limp",
+          "wilted",
+          "droopy"
+        ],
+        "diagnosis_ru": "Корневая гниль от перелива",
+        "confidence": 0.75,
+        "treatment_ru": [
+          "Выньте растение из горшка, осмотрите корни",
+          "Обрежьте гнилые корни до здоровой ткани",
+          "Обработайте корни фунгицидом",
+          "Пересадите в свежий, сухой грунт"
+        ],
+        "products_ru": "Фитоспорин-М, Максим, Фундазол"
+      }
+    ]
+  },
+  "general_recommendations": [
+    "💧 ПОЛИВ: Давайте почве просохнуть на 2-3 см между поливами",
+    "☀️ ОСВЕЩЕНИЕ: Большинству растений нужен яркий рассеянный свет",
+    "🌡️ ТЕМПЕРАТУРА: +18...+25°C, избегайте резких перепадов",
+    "💨 ВЛАЖНОСТЬ: Регулярное опрыскивание полезно для большинства растений",
+    "🧪 УДОБРЕНИЯ: С марта по октябрь 1 раз в 2 недели, зимой реже"
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "query": {
+    "project": "all",
+    "images": [
+      "e7cb4b7c2a0b4d9e1a49a6b9018e56d5"
+    ],
+    "organs": [
+      "auto"
+    ],
+    "includeRelatedImages": false,
+    "noReject": false,
+    "type": null
+  },
+  "predictedOrgans": [
+    {
+      "image": "e7cb4b7c2a0b4d9e1a49a6b9018e56d5",
+      "filename": "plant.jpg",
+      "organ": "leaf",
+      "score": 0.55212
+    }
+  ],
+  "language": "en",
+  "preferedReferential": "k-world-flora",
+  "bestMatch": "Ferocactus pilosus (Galeotti ex Salm-Dyck) Werderm.",
+  "results": [
+    {
+      "score": 0.32538,
+      "species": {
+        "scientificNameWithoutAuthor": "Ferocactus pilosus",
+        "scientificNameAuthorship": "(Galeotti ex Salm-Dyck) Werderm.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ferocactus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ferocactus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [
+          "Mexican fire barrel cactus",
+          "Mexican lime cactus",
+          "Mexican Fire Barrel"
+        ],
+        "scientificName": "Ferocactus pilosus (Galeotti ex Salm-Dyck) Werderm."
+      },
+      "gbif": {
+        "id": "3959149"
+      },
+      "powo": {
+        "id": "133173-1"
+      },
+      "iucn": {
+        "id": "152928",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.05559,
+      "species": {
+        "scientificNameWithoutAuthor": "Ferocactus gracilis",
+        "scientificNameAuthorship": "H.E.Gates",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ferocactus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ferocactus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [
+          "Fire barrel cactus"
+        ],
+        "scientificName": "Ferocactus gracilis H.E.Gates"
+      },
+      "gbif": {
+        "id": "7284486"
+      },
+      "powo": {
+        "id": "103634-2"
+      },
+      "iucn": {
+        "id": "151730",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02079,
+      "species": {
+        "scientificNameWithoutAuthor": "Sclerocactus johnsonii",
+        "scientificNameAuthorship": "(Parry ex Engelm.) N.P.Taylor",
+        "genus": {
+          "scientificNameWithoutAuthor": "Sclerocactus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Sclerocactus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [
+          "Eight-spine Fishhook Cactus",
+          "Johnson's Barrel Cactus",
+          "Johnson's Fishhook Cactus"
+        ],
+        "scientificName": "Sclerocactus johnsonii (Parry ex Engelm.) N.P.Taylor"
+      },
+      "gbif": {
+        "id": "3084561"
+      },
+      "powo": {
+        "id": "944043-1"
+      },
+      "iucn": {
+        "id": "152815",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01598,
+      "species": {
+        "scientificNameWithoutAuthor": "Thelocactus bicolor",
+        "scientificNameAuthorship": "(Galeotti ex Pfeiff.) Britton & Rose",
+        "genus": {
+          "scientificNameWithoutAuthor": "Thelocactus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Thelocactus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [
+          "Glory of Texas",
+          "Straw Thelocactus",
+          "Glory-of-texas"
+        ],
+        "scientificName": "Thelocactus bicolor (Galeotti ex Pfeiff.) Britton & Rose"
+      },
+      "gbif": {
+        "id": "3084405"
+      },
+      "powo": {
+        "id": "251010-2"
+      },
+      "iucn": {
+        "id": "152343",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01295,
+      "species": {
+        "scientificNameWithoutAuthor": "Ferocactus acanthodes",
+        "scientificNameAuthorship": "(Lem.) Britton & Rose",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ferocactus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ferocactus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [
+          "Compass cactus",
+          "California barrel cactus",
+          "Barrrel cactus"
+        ],
+        "scientificName": "Ferocactus acanthodes (Lem.) Britton & Rose"
+      },
+      "gbif": {
+        "id": "6383572"
+      }
+    },
+    {
+      "score": 0.01271,
+      "species": {
+        "scientificNameWithoutAuthor": "Mammillaria spinosissima",
+        "scientificNameAuthorship": "Lem.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Mammillaria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Mammillaria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [
+          "Spiny Pincushion Cactus",
+          "Cactus"
+        ],
+        "scientificName": "Mammillaria spinosissima Lem."
+      },
+      "gbif": {
+        "id": "7281203"
+      },
+      "powo": {
+        "id": "135156-1"
+      },
+      "iucn": {
+        "id": "151884",
+        "category": "DD"
+      }
+    },
+    {
+      "score": 0.01056,
+      "species": {
+        "scientificNameWithoutAuthor": "Melocactus intortus",
+        "scientificNameAuthorship": "(Mill.) Urb.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Melocactus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Melocactus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [
+          "Turk's-cap cactus",
+          "Pope's Head Cactus",
+          "Red-topped Barrel Cactus"
+        ],
+        "scientificName": "Melocactus intortus (Mill.) Urb."
+      },
+      "gbif": {
+        "id": "5384243"
+      },
+      "powo": {
+        "id": "156828-2"
+      },
+      "iucn": {
+        "id": "152029",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00869,
+      "species": {
+        "scientificNameWithoutAuthor": "Rebutia mentosa",
+        "scientificNameAuthorship": "(F.Ritter) Donald",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rebutia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rebutia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Rebutia mentosa (F.Ritter) Donald"
+      },
+      "gbif": {
+        "id": "7282049"
+      },
+      "powo": {
+        "id": "284165-2"
+      },
+      "iucn": {
+        "id": "152715",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00778,
+      "species": {
+        "scientificNameWithoutAuthor": "Rebutia steinbachii",
+        "scientificNameAuthorship": "Werderm.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rebutia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rebutia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Rebutia steinbachii Werderm."
+      },
+      "gbif": {
+        "id": "7281548"
+      },
+      "powo": {
+        "id": "218235-2"
+      },
+      "iucn": {
+        "id": "152939",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00708,
+      "species": {
+        "scientificNameWithoutAuthor": "Mammillaria duoformis",
+        "scientificNameAuthorship": "R.T.Craig & E.Y.Dawson",
+        "genus": {
+          "scientificNameWithoutAuthor": "Mammillaria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Mammillaria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Mammillaria duoformis R.T.Craig & E.Y.Dawson"
+      },
+      "gbif": {
+        "id": "7280623"
+      },
+      "powo": {
+        "id": "150881-2"
+      },
+      "iucn": {
+        "id": "152580",
+        "category": "DD"
+      }
+    }
+  ],
+  "version": "2025-10-08 (7.4)",
+  "remainingIdentificationRequests": 495
+}
